@@ -38,11 +38,12 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #042940;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	background-image: url('Untitled design (6).png');
+	
+background-position:50%;
+background-repeat: no-repeat;
+background-size:cover;
+
 	padding-top: 150px;
 	padding-bottom: 0;
 }
@@ -120,7 +121,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #D6D58E;
 	overflow: hidden;
 }
 
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #9FC131;
+	background: #D6D58E;
 }
 
 .experience-icon {
@@ -353,7 +354,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #9FC131;
+	background: #D6D58E;
 	padding-bottom: 5%;
 }
 
